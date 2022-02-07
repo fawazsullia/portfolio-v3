@@ -262,7 +262,7 @@ hr {
   justify-content: center;
   align-items: center;
   width: 100%;
-  margin: auto;
+  margin: auto auto 50px auto;
 }
 
 .blog-post-inner {
@@ -276,7 +276,7 @@ hr {
 
 .blog-post-title {
   width: 100%;
-  max-width: 550px;
+  max-width: 700px;
   margin-bottom: 15px;
   padding: 40px 10px;
 }
@@ -299,7 +299,7 @@ hr {
 
 .blog-post-content {
   width: 100%;
-  max-width: 550px;
+  max-width: 700px;
   padding: 0px 10px;
 }
 
@@ -352,6 +352,7 @@ hr {
   line-height: 1.2;
   letter-spacing: -1px;
   font-weight: 400 !important;
+  color: brown;
 }
 
 .post-card-title p {

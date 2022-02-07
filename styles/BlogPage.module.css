@@ -3,12 +3,13 @@
 }
 
 .heading {
-  margin: 20px auto auto auto;
+  margin: 30px auto auto auto;
   font-size: 1.3rem;
-  color: indianred;
+  color: black;
   text-align: center;
   width: 50%;
-  font-weight: 600;
+  font-weight: 400;
+  font-style: italic;
 }
 
 .postContainer {

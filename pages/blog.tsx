@@ -1,5 +1,5 @@
 import Head from 'next/head';
-import { PostData, loadBlogPosts, loadMarkdownFile } from '../loader';
+import { PostData, loadBlogPosts} from '../loader';
 import { PostCard } from '../components/PostCard';
 import styles from '../styles/BlogPage.module.css'
 
